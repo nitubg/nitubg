@@ -1,6 +1,5 @@
-![banner](fa.jpg)
 
-<img src="gif-link-here" width="200"/>
+<img src="me.png" width="200"/>
 
 # 👋 Hey, I'm Nitu Bagchi  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0EF7F7&width=600&lines=Hi+I'm+Nitu+Bagchi;Full+Stack+Developer;App+Developer;AI+Tools+Builder;Tech+Lover+❤️)](https://git.io/typing-svg)
@@ -40,7 +39,7 @@
 ![nitubg](https://img.shields.io/badge/nitubg-cyberpunk-neon?style=for-the-badge)
 
 
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ## 🧰 Tools I Use Everyday  
@@ -50,13 +49,15 @@
 🎨 Figma  
 🐳 Docker  
 🔥 Firebase  
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+![banner](fa.jpg)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🌐 Connect With Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_imnitu_/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitubg)
 
