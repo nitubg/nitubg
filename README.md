@@ -2,7 +2,7 @@
 <img src="me.png" width="200"/>
 
 # 👋 Hey, I'm Nitu Bagchi  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0EF7F7&width=600&lines=Hi+I'm+Nitu+Bagchi;Full+Stack+Developer;App+Developer;AI+Tools+Builder;Tech+Lover+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0EF7F7&width=600&lines=Full+Stack+Developer;App+Developer;AI+Tools+Builder;Tech+Lover+❤️)](https://git.io/typing-svg)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
