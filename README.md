@@ -35,13 +35,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-
-![nitubg](https://img.shields.io/badge/nitubg-cyberpunk-neon?style=for-the-badge)
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
 ## 🧰 Tools I Use Everyday  
 🖥 VS Code  
 🌐 Chrome DevTools  
