@@ -4,20 +4,18 @@
 # 👋 Hey, I'm Nitu Bagchi  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0EF7F7&width=600&lines=Full+Stack+Developer;App+Developer;AI+Tools+Builder;Tech+Lover+❤️)](https://git.io/typing-svg)
 
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🚀 What I Do  
-  
+💡 AI Tools Development  
 🛠 Full-Stack Web Development  
 📱 App Development (React Native)  
 🎨 UI/UX Design  
-💡 AI Tools Development
-🎮 Game Development
+🎮 Game Development      
+🧠 Automation Scripts  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🛠️ Tech Stack  
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +36,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
 ## 🧰 Tools I Use Everyday  
 🖥 VS Code  
 🌐 Chrome DevTools  
@@ -57,13 +54,6 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitubg)
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitubg&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nitubg&theme=neon&hide_border=false)<br/>
@@ -78,7 +68,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nitubg&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitubg)
+
+
+
+
 
 
 <!--
